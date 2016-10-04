@@ -1,3 +1,3 @@
 # ipython
 
-# generating a random data set
+# Generating a random data set
